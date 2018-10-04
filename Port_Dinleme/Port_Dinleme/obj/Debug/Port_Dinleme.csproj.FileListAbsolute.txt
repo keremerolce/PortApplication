@@ -1,0 +1,10 @@
+C:\Users\KEREMEROL96\source\repos\Port_Dinleme\Port_Dinleme\bin\Debug\Port_Dinleme.exe.config
+C:\Users\KEREMEROL96\source\repos\Port_Dinleme\Port_Dinleme\bin\Debug\Port_Dinleme.exe
+C:\Users\KEREMEROL96\source\repos\Port_Dinleme\Port_Dinleme\bin\Debug\Port_Dinleme.pdb
+C:\Users\KEREMEROL96\source\repos\Port_Dinleme\Port_Dinleme\obj\Debug\Port_Dinleme.csprojAssemblyReference.cache
+C:\Users\KEREMEROL96\source\repos\Port_Dinleme\Port_Dinleme\obj\Debug\Port_Dinleme.Form1.resources
+C:\Users\KEREMEROL96\source\repos\Port_Dinleme\Port_Dinleme\obj\Debug\Port_Dinleme.Properties.Resources.resources
+C:\Users\KEREMEROL96\source\repos\Port_Dinleme\Port_Dinleme\obj\Debug\Port_Dinleme.csproj.GenerateResource.cache
+C:\Users\KEREMEROL96\source\repos\Port_Dinleme\Port_Dinleme\obj\Debug\Port_Dinleme.csproj.CoreCompileInputs.cache
+C:\Users\KEREMEROL96\source\repos\Port_Dinleme\Port_Dinleme\obj\Debug\Port_Dinleme.exe
+C:\Users\KEREMEROL96\source\repos\Port_Dinleme\Port_Dinleme\obj\Debug\Port_Dinleme.pdb

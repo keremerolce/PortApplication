@@ -1,0 +1,10 @@
+C:\Users\KEREMEROL96\source\repos\SERI_PORT_COM\SERI_PORT_COM\bin\Debug\SERI_PORT_COM.exe.config
+C:\Users\KEREMEROL96\source\repos\SERI_PORT_COM\SERI_PORT_COM\bin\Debug\SERI_PORT_COM.exe
+C:\Users\KEREMEROL96\source\repos\SERI_PORT_COM\SERI_PORT_COM\bin\Debug\SERI_PORT_COM.pdb
+C:\Users\KEREMEROL96\source\repos\SERI_PORT_COM\SERI_PORT_COM\obj\Debug\SERI_PORT_COM.csprojAssemblyReference.cache
+C:\Users\KEREMEROL96\source\repos\SERI_PORT_COM\SERI_PORT_COM\obj\Debug\SERI_PORT_COM.Form1.resources
+C:\Users\KEREMEROL96\source\repos\SERI_PORT_COM\SERI_PORT_COM\obj\Debug\SERI_PORT_COM.Properties.Resources.resources
+C:\Users\KEREMEROL96\source\repos\SERI_PORT_COM\SERI_PORT_COM\obj\Debug\SERI_PORT_COM.csproj.GenerateResource.cache
+C:\Users\KEREMEROL96\source\repos\SERI_PORT_COM\SERI_PORT_COM\obj\Debug\SERI_PORT_COM.csproj.CoreCompileInputs.cache
+C:\Users\KEREMEROL96\source\repos\SERI_PORT_COM\SERI_PORT_COM\obj\Debug\SERI_PORT_COM.exe
+C:\Users\KEREMEROL96\source\repos\SERI_PORT_COM\SERI_PORT_COM\obj\Debug\SERI_PORT_COM.pdb
